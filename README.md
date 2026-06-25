@@ -4,21 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Raza!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End developer from Pakistan 🇨🇦</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **React, Laravel, Mongo DB**
 
-💬 Ask me about **HTML, CSS, JavaScript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💻 I build modern, responsive, and scalable web applications from front-end to back-end.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🚀 Experienced with HTML, CSS, JavaScript, React, PHP, Laravel, Node.js, Express.js, MongoDB, MySQL, and REST APIs.
 
- </div>
+🌱 Always exploring new technologies and improving my skills in Full Stack Development, Cloud, and Modern Web Technologies.
+
+🤝 I enjoy turning ideas into real-world applications with clean, efficient, and maintainable code.
+
+💬 Ask me about Frontend, Backend, Full Stack Development, JavaScript, React, Laravel, Node.js, MongoDB, or anything related to Web Development.
+
+⚡ Fun fact: I love solving real-world problems through code and continuously learning new technologies.
+
+</div>
  
 <div align="center"> 
   <a href="mailto:alirazakhadam909@gmail.com">
